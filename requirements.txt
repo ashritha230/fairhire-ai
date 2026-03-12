@@ -1,0 +1,6 @@
+streamlit
+spacy
+sentence-transformers
+scikit-learn
+pandas
+altair==4.2.2
